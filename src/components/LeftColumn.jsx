@@ -1,6 +1,6 @@
 import AreaChartComponent from "./AreaChartComponent";
 import TableComponent from "./TableComponent";
-import CardItem from "./cardItem";
+import CardItem from "./CardItem";
 
 function LeftColumn() {
   return (
